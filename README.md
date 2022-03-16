@@ -2,7 +2,8 @@
 E atualmente estudo python voltado para Data Science, o
 Perfil segue em construção para acompanhar minha evolução no ramo. 
 Aceitando dicas, oportunidades e trocas de experiencias do mundo digital!
-🚀Curiosidade: meu curso original é historia e tenho a ambição de usar progamação com educação!🚀
+
+🚀Curiosidade: meu curso original é historia, então tenho a ambição de usar progamação para aproximar ainda mais o futuro a educação!🚀
 
 
 <div align="center">
