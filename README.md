@@ -1,9 +1,9 @@
-# Opa mundo!eu me chamo Gustavo
-Atualmente estudo python voltado para a analise de dados
-Perfil em construção para acompanhar minha evolução no ramo 
+# Opa mundo!Eu me chamo Gustavo
+E atualmente estudo python voltado para Data Science, o
+Perfil segue em construção para acompanhar minha evolução no ramo. 
 Aceitando dicas, oportunidades e trocas de experiencias do mundo digital!
-Curiosidade: meu curso original é historia e tenho a ambição de usar progamação com educação!
-✔👀👏✌👍❤👌😊😎🍳🚀🔥🌟
+🚀Curiosidade: meu curso original é historia e tenho a ambição de usar progamação com educação!🚀
+
 
 <div align="center">
   <a href="https://github.com/GustavoCleon/A1">
