@@ -1,4 +1,4 @@
-# Opa mundo!Eu me chamo Gustavo
+# Opa mundo!Eu me chamo Gustavo...
 E atualmente estudo python voltado para Data Science, o
 Perfil segue em construção para acompanhar minha evolução no ramo. 
 Aceitando dicas, oportunidades e trocas de experiencias do mundo digital!
